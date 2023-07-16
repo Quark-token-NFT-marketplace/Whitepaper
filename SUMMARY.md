@@ -37,6 +37,10 @@
 
 * [Socials](links/socials.md)
 
+## How to buy
+
+* [Guide](how-to-buy/guide.md)
+
 ## Production status
 
 * [dev - Websites](production-status/dev-websites.md)
@@ -45,7 +49,3 @@
 * [dev - Locker](production-status/dev-locker.md)
 * [dev - Token](production-status/dev-token.md)
 * [dev - BuyBot](production-status/dev-buybot.md)
-
-## How to buy
-
-* [Guide](how-to-buy/guide.md)
