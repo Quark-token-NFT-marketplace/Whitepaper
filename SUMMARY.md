@@ -46,6 +46,6 @@
 * [dev - Token](production-status/dev-token.md)
 * [dev - BuyBot](production-status/dev-buybot.md)
 
-## Group 1
+## How to buy
 
-* [How to buy](group-1/how-to-buy.md)
+* [Guide](how-to-buy/guide.md)

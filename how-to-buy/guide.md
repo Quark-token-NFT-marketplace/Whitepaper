@@ -5,7 +5,7 @@ description: >-
   token.
 ---
 
-# How to buy
+# Guide
 
 ✅ First:
 
