@@ -45,3 +45,7 @@
 * [dev - Locker](production-status/dev-locker.md)
 * [dev - Token](production-status/dev-token.md)
 * [dev - BuyBot](production-status/dev-buybot.md)
+
+## Group 1
+
+* [How to buy](group-1/how-to-buy.md)
