@@ -4,7 +4,7 @@ Our project presents Quark, an innovative token designed to have an integration 
 
 
 1. **Quark Token Utility**: \
-   Quark will serve as a cornerstone of our marketplace's operations, facilitating a burn function for 0% fee NFT minting. Holding more than 1% Quark grants access to our OG chat group, and providing users with privileged access to specific features. As Quark's utility enhances, so does its value. [/nft-marketplace](quark-ecosystem/nft-marketplace.md) \
+   Quark will serve as a cornerstone of our marketplace's operations, facilitating a burn function for 0% fee NFT sales. Holding more than 1% Quark grants access to our OG chat group, and providing users with privileged access to specific features. As Quark's utility enhances, so does its value. [/nft-marketplace](quark-ecosystem/nft-marketplace.md) \
 
 2. **Exclusive Quark NFT Collections**: \
    We will be unveiling unique NFT collections that can be exclusively purchased using Quark. By doing so, we aim to create a direct demand for Quark, drawing the attention of both collectors and investors. [/dynamic-nfts](quark-ecosystem/dynamic-nfts.md)\
