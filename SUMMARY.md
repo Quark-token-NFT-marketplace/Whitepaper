@@ -50,3 +50,10 @@
 * [dev - Locker](production-status/dev-locker.md)
 * [dev - Token](production-status/dev-token.md)
 * [dev - BuyBot](production-status/dev-buybot.md)
+
+## Marketplace
+
+* [Terms](marketplace/terms.md)
+* [Privacy Policy](marketplace/privacy-policy.md)
+* [FAQ](marketplace/faq.md)
+* [Become a partner](marketplace/become-a-partner.md)
