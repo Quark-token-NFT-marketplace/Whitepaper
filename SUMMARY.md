@@ -42,6 +42,13 @@
 
 * [Guide](how-to-buy/guide.md)
 
+## Marketplace
+
+* [Terms](marketplace/terms.md)
+* [Privacy Policy](marketplace/privacy-policy.md)
+* [FAQ](marketplace/faq.md)
+* [Become a partner](marketplace/become-a-partner.md)
+
 ## Production status
 
 * [dev - Websites](production-status/dev-websites.md)
@@ -51,9 +58,6 @@
 * [dev - Token](production-status/dev-token.md)
 * [dev - BuyBot](production-status/dev-buybot.md)
 
-## Marketplace
+## Group 1
 
-* [Terms](marketplace/terms.md)
-* [Privacy Policy](marketplace/privacy-policy.md)
-* [FAQ](marketplace/faq.md)
-* [Become a partner](marketplace/become-a-partner.md)
+* [Audits](group-1/audits.md)
