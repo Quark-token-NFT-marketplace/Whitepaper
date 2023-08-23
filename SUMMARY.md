@@ -42,6 +42,10 @@
 
 * [Guide](how-to-buy/guide.md)
 
+## Audits
+
+* [Contract audits](audits/contract-audits.md)
+
 ## Marketplace
 
 * [Terms](marketplace/terms.md)
@@ -57,7 +61,3 @@
 * [dev - Locker](production-status/dev-locker.md)
 * [dev - Token](production-status/dev-token.md)
 * [dev - BuyBot](production-status/dev-buybot.md)
-
-## Group 1
-
-* [Audits](group-1/audits.md)

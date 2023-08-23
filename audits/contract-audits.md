@@ -1,4 +1,4 @@
-# Audits
+# Contract audits
 
 #### Audit by Stitch Alvey:
 
