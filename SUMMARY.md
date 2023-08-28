@@ -6,12 +6,13 @@
 
 ## Quark Ecosystem
 
+* [Token](quark-ecosystem/token.md)
 * [NFT Marketplace](quark-ecosystem/nft-marketplace.md)
 * [Dynamic NFTs](quark-ecosystem/dynamic-nfts.md)
 * [Locker](quark-ecosystem/locker.md)
-* [Token](quark-ecosystem/token.md)
-* [BuyBot](quark-ecosystem/buybot.md)
+* [Mint & Vote](quark-ecosystem/mint-and-vote.md)
 * [Business model](quark-ecosystem/business-model.md)
+* [BuyBot](quark-ecosystem/buybot.md)
 
 ## Info
 

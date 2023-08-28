@@ -1,0 +1,3 @@
+# Mint & Vote
+
+We've developed a specialized minting dApp tailored for our custom NFT contract mint events. This isn't just any ordinary dApp; alongside the minting feature, we've integrated a unique polling mechanism. Holders of specific NFTs or our Quark token have the privilege to participate in polls where they can voice their opinions on various questions posed by our team. We believe in empowering our community and feel that this is a wonderful way for them to directly influence and be part of our project's direction and decisions. Whether it's about future developments, design choices, or community events, our dApp ensures that our community is always at the heart of what we do.
