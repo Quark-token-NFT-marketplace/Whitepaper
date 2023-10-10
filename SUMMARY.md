@@ -18,6 +18,12 @@
 
 * [Tokenomics](info/tokenomics.md)
 
+## Roadmap
+
+* [Phase one](roadmap/phase-one.md)
+* [Phase two](roadmap/phase-two.md)
+* [Phase three](roadmap/phase-three.md)
+
 ## The artists
 
 * [Prerequisites](the-artists/prerequisites.md)
@@ -28,12 +34,6 @@
 ## Notion
 
 * [Golden rules](notion/golden-rules.md)
-
-## Roadmap
-
-* [Phase one](roadmap/phase-one.md)
-* [Phase two](roadmap/phase-two.md)
-* [Phase three](roadmap/phase-three.md)
 
 ## Links
 

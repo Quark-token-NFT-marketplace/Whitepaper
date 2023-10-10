@@ -1,5 +1,7 @@
 # Phase three
 
-a) Expanding the ecosystem
+a) Expand the ecosystem further&#x20;
 
-b) NFT collections with a focus toward ideal organisational work and the environment
+b) Develop NFT collections with a focus on ideal organizational work and environmental initiatives&#x20;
+
+c) Implement upgrades for seamless integration with additional blockchains and technologies
