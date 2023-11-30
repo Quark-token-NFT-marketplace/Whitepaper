@@ -35,8 +35,8 @@ The locker links can only be fully accessed by connecting to the locker at an Al
 * 2% core team tokens
 * 4.5% investor tokens, to be relocked until the whole ecosystem is established. Control of these tokens remains with the development team until deemed appropriate for release, an arrangement agreed upon by the investors.\
 
-* 12% burned. To demonstrate their commitment to our project, the community along with the blockchain Founder, have incinerated 12% of the tokens.
-* The liquidity and marketcap ratio is **1 : 1.84** . _Currently LP 22.1k : MC 41.5k (01. July, 2023)_\
+* 28% burned. To demonstrate their commitment to our project, the community along with the blockchain Founder, have incinerated 28% of the tokens.
+* The liquidity and marketcap ratio is **1 : 1.84** . _Currently LP 52.0k : MC 127.9k (31. December, 2023)_\
 
 
 **Ecosystem Interaction:** \
