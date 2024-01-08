@@ -2,41 +2,25 @@
 
 **Quark Tokenomics Overview**
 
-**Token Name:** Quark 2.0 (QUARK)
+**Token Name:** Quark 3.0 (QUARK 3)
 
 **Blockchain:** Alveychain
 
 **Circulating Supply:** 10,000,000,000,000 QUARK
 
-**Contract:** [https://alveyscan.com/token/0x6f0C516b4cAE5424bbB0329797a7A7EE4c70309D](https://alveyscan.com/token/0x6f0C516b4cAE5424bbB0329797a7A7EE4c70309D)
+**Contract:** [https://alveyscan.com/token/0xa0C0e4A09715E7B8e03aDeB5699628B7aE3ed8eD](https://alveyscan.com/token/0xa0C0e4A09715E7B8e03aDeB5699628B7aE3ed8eD)\
+Deployed: 07. January 2024.
 
-\
-Quark operates within a transparent and incentive-driven ecosystem. Our 0% tax framework fosters a vibrant trading environment free from transactional charges.&#x20;
+
+
+Tax:\
+Buy tax: 2% \
+Sell tax 3% \
+_(detailed descrition for tax as a businessmodel will be added soon)_
 
 \
 **Burn Mechanism:** \
 Quark's Marketplace integrates a unique burn function, raising the visibility of artists minting NFTs on the platform and providing a compelling case for long-term holding by Quark token holders.\
-
-
-**Token and Liquidity Locks:** Quark provides secure token management with a liquidity locker and token locker for vesting and ownership changes. \
-\
-The locked liquidity pool can be viewed at: \
-[https://locker.quarktoken.io/liquidity-lock/0xFac4066e6025a125BD7804335A7Dd30C3406dDF9](https://locker.quarktoken.io/liquidity-lock/0xFac4066e6025a125BD7804335A7Dd30C3406dDF9).\
-The locked tokens can be viewed at: \
-[https://locker.quarktoken.io/token-lock/0x6f0C516b4cAE5424bbB0329797a7A7EE4c70309D](https://locker.quarktoken.io/token-lock/0x6f0C516b4cAE5424bbB0329797a7A7EE4c70309D).\
-The locker links can only be fully accessed by connecting to the locker at an Alveychain supported wallet.\
-
-
-**Token Distribution:** \
-\
-16.5% of the total tokens are locked by the team:
-
-* 10% development tokens, reserved for future project enhancement
-* 2% core team tokens
-* 4.5% investor tokens, to be relocked until the whole ecosystem is established. Control of these tokens remains with the development team until deemed appropriate for release, an arrangement agreed upon by the investors.\
-
-* 28% burned. To demonstrate their commitment to our project, the community along with the blockchain Founder, have incinerated 28% of the tokens.
-* The liquidity and marketcap ratio is **1 : 1.84** . _Currently LP 52.0k : MC 127.9k (31. December, 2023)_\
 
 
 **Ecosystem Interaction:** \

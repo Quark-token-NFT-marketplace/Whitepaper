@@ -12,4 +12,5 @@ Moreover, our locker also offers a unique functionality allowing for the change 
 
 In essence, Quark's token and liquidity locker provides an advanced solution for token management on the Alveychain blockchain. With its unique capabilities for vesting tokens and changing the ownership of locked tokens, Quark sets a new precedent for security, flexibility, and strategic asset management in the blockchain realm.\
 \
-Locker can be fully accessed by an Alveychain supported wallet: [https://locker.quarktoken.io](https://locker.quarktoken.io/liquidity-lock/0xFac4066e6025a125BD7804335A7Dd30C3406dDF9)
+Locker can be fully accessed by an Alveychain supported wallet: \
+CURRENTLY IN PROCESS OF BEING REBUILT.
