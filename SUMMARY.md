@@ -53,12 +53,3 @@
 * [Privacy Policy](marketplace/privacy-policy.md)
 * [FAQ](marketplace/faq.md)
 * [Become a partner](marketplace/become-a-partner.md)
-
-## Production status
-
-* [dev - Websites](production-status/dev-websites.md)
-* [dev - NFT marketplace](production-status/dev-nft-marketplace.md)
-* [dev - Dynamic NFTs](production-status/dev-dynamic-nfts.md)
-* [dev - Locker](production-status/dev-locker.md)
-* [dev - Token](production-status/dev-token.md)
-* [dev - BuyBot](production-status/dev-buybot.md)
