@@ -17,7 +17,7 @@ Let's add the AlveyChain network to you Metamask (mm) wallet. The step by step i
 * Click "Add a network" then at the bottom "Add a network manually"
 * Input the followng details: \
   Network name: AlveyChain \
-  RPC URL: https://rpc2.alvey.io/rpc \
+  RPC URL: [https://elves-core2.alvey.io/](https://elves-core2.alvey.io/)\
   String ID: 3797 \
   Currency: ALV \
   Block Scanner: https://alveyscan.com/
