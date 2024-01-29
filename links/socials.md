@@ -7,10 +7,11 @@ description: 'Project social links:'
 Website: [https://quarktoken.io/](https://quarktoken.io/)\
 \
 Twitter: [https://twitter.com/QuarkToken](https://twitter.com/QuarkToken)\
-Global Telegram: [https://t.me/QuarkEntryPortal](https://t.me/QuarkEntryPortal)\
-Spanish Telegram: [https://t.me/QuarkPortaldeEntrada](https://t.me/QuarkPortaldeEntrada)\
+Global Telegram: [https://t.me/QuarkToken](https://t.me/QuarkToken)\
+Spanish Telegram: [https://t.me/QuarkTokenES](https://t.me/QuarkTokenES)\
+Chinese Telegram: [https://t.me/QuarkTokenZH](https://t.me/QuarkTokenZH)\
 \
-Dextools: [http://dextools.io/app/en/alvey/pair-explorer/0xfac4066e6025a125bd7804335a7dd30c3406ddf9](http://dextools.io/app/en/alvey/pair-explorer/0xfac4066e6025a125bd7804335a7dd30c3406ddf9)\
+Dextools: [http://dextools.io/app/en/alvey/pair-explorer/0xa0c0e4a09715e7b8e03adeb5699628b7ae3ed8ed](https://www.dextools.io/app/en/alvey/pair-explorer/0x6c07699553d5dd55ea2bf71866353ac3b2f15e96)\
 \
 Medium: [http://quarktoken.medium.com/](http://quarktoken.medium.com/)\
 Discord (comming): [https://discord.gg/DDGdDYXYxn](https://discord.gg/DDGdDYXYxn)\
