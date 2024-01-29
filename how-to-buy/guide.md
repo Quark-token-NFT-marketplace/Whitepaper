@@ -67,7 +67,7 @@ Buy QUARK using your ALV tokens.The step by step instructions are here.
 * In the swap window it should show "ALV" at the top and show your balance
 * There will be another token below, click that followed by clicking "Manage Tokens" at the bottom
 * Then click the tab "Tokens"
-* Copy the QUARK contract address: 0x6f0c516b4cae5424bbb0329797a7a7ee4c70309d
+* Copy the QUARK contract address: 0xa0c0e4a09715e7b8e03adeb5699628b7ae3ed8ed
 * Paste into the space then click "Import"
 * Tick the box "I understand" followed by "Import" again
 * It should now show ALV as the top token and QUARK as the bottom token
