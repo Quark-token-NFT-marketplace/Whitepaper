@@ -1,23 +1,23 @@
 # Phase two
 
-a) Extend the functionalities of Quark BuyBot significantly ✅&#x20;
+a) Implement our Addons feature to the NFT marketplace.   ✅&#x20;
 
-b) Upgrade NFT Marketplace&#x20;
+b) Buybot support for any EVM chain.    ✅&#x20;
 
-c) Integrate Ethereum into the Marketplace&#x20;
+c) Launchpad with support for ETH, BSC, Poly, and ALV  &#x20;
 
-d) Develop more exclusive NFTs \
-\
-e) Expand the core team&#x20;
+d) NFT Marketplace support for ETH, BSC, Poly and ALV
 
-f) Implement robust marketing strategies&#x20;
+e) Expand the core team ✅&#x20;
 
-g) Forge more exclusive partnerships&#x20;
+f) Implement robust marketing strategies   ✅&#x20;
 
-h) Bring Quark Buybot onto more chains
+g) Redeploy Quark 3 token at ALV   ✅&#x20;
 
-i) Introduce NFT collections focusing on ideal organizational work and crisis management&#x20;
+h) Launch Quark 3 token at ETH  &#x20;
 
-j) Develop deploybot for project contract deployment on Ethereum, BSC, and Alvechain
+i) Build a cross chain bridge&#x20;
 
-k) Create an efficient launchpad for new projects
+j) Telegram deploy bot for project contract deployment on same chains as our Launchpad supports.
+
+k) Forge more exclusive partnerships
