@@ -10,5 +10,7 @@ d) Build Quark Buy bot ✅
 
 e) Launch our own NFT Marketplace ✅
 
-f) Start launching our own NFT collections in colaboration with the artists ✅
+f) Start launching our own NFT collections in colaboration with the artists ✅\
+\
+g) Extend the functionalities of Quark BuyBot significantly ✅
 
