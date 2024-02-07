@@ -1,6 +1,6 @@
 # Phase one
 
-a) Stealth launch Quark 2.0 token ✅
+a) Stealth launch Quark 2.0 token ✅ (later redeployed as Quark 3.0 Token ✅)
 
 b) Build community ✅
 
