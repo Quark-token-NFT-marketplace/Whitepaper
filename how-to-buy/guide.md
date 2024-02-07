@@ -74,4 +74,4 @@ Buy QUARK using your ALV tokens.The step by step instructions are here.
 * Enter the amount of ALV you wish to spend to purchase QUARK
 * Click "Swap"
 
-#### Enjoy your trading and welcome to the Quark 2.0 token & marketplace journey!
+#### Enjoy your trading and welcome to the Quark 3.0 token & marketplace journey!
